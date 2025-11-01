@@ -6,7 +6,7 @@
 
 -  "Cascading" -> cascades like a waterfall. 1. Start from the most general -> 2. All the way down to the most specific styling requirements. 
 
-- "Style Sheets": A type of langauge similar to how we had the HTML. 
+- "Style Sheets": A type of language similar to how we had the HTML. 
      - others: Saas, Less, etc..
 
 => basically adding style to our website. 
@@ -85,7 +85,7 @@
             color: red  //Change the color to red
             }
         ```
-    - What is a class: Something that we can add as an attribute to any HTML element.
+    - **What is a class:** Something that we can add as an attribute to any HTML element.
     - Example: 
         ```
         index.html
